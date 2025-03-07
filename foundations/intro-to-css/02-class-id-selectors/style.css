@@ -1,0 +1,16 @@
+/*stylesheet!*/
+
+.alert{
+    background-color: rgb(252, 170, 170);
+}
+
+#solo{
+    color: rgb(23, 23, 204);
+    font-size: 28px;
+    font-weight: 500;
+}
+
+.alert2{
+    font-weight: 500;
+    font-style: Vesans-serif;
+}
