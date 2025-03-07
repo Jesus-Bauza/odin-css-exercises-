@@ -1,16 +1,24 @@
 /*stylesheet!*/
 
-.alert{
-    background-color: rgb(252, 170, 170);
+.alert {
+  background-color: rgb(252, 170, 170);
+  font-family: "DejaVu Sans", Verdana, sans-serif;
 }
 
-#solo{
-    color: rgb(23, 23, 204);
-    font-size: 28px;
-    font-weight: 500;
+#solo {
+  color: rgb(64, 64, 221);
+  font-size: 36px;
 }
 
-.alert2{
-    font-weight: 500;
-    font-style: Vesans-serif;
+.alert2 {
+  font-weight: 500;
+  font-family: "DejaVu Sans", Verdana, sans-serif;
+  font-size: 24px;
 }
+
+#solo2{
+    background-color: rgb(128, 248, 128);
+    font-size: ;
+    font-weight: bold;
+}
+
